@@ -1,1 +1,4 @@
 minishell
+*.o
+a.txt
+out.txt

@@ -73,3 +73,11 @@ exit
 - A `syntax error: missing command after '|'` guard rejects trailing pipes.
 - Background jobs are reaped with `waitpid(..., WNOHANG)` each prompt, so no zombies.
 - The shell ignores `SIGINT`; each child resets it to default before `execvp`.
+
+
+## Team Members
+
+- Sourabh Torgal (Team lead)
+- Ullas M J
+- Sai Sujay P
+- Vinayak Pattar
